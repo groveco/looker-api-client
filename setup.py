@@ -3,8 +3,8 @@
 import sys
 from setuptools import setup, find_packages
 
-NAME = "looker-api-client"
-VERSION = "1.0.1"
+NAME = "grove-looker"
+VERSION = "1.0.2"
 
 
 # To install the library, run the following
